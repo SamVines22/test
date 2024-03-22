@@ -1,0 +1,1 @@
+console.log("gimp fuck test webpack");
